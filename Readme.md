@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://instagram.com/neer_j_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/918113921898"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/918086725570"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 <div align="center">
   
@@ -37,7 +37,7 @@
 ### DEPLOY
 
   Copy this link and paste it on your browser Change Neeraj-X0 to your github username <br>
-`https://heroku.com/deploy?template=https://github.com/Neeraj-x0/Millie`  
+`https://heroku.com/deploy?template=https://github.com/kuttuyt/Millie`  
 
 
 
